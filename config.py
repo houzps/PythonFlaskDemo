@@ -1,0 +1,2 @@
+CSRF_ENABLED = True
+SECREY_KEY = "TEST"
